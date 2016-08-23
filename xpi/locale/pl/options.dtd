@@ -187,7 +187,7 @@
 <!ENTITY Ctr_bmbutton		"Przycisk menu zakładek">
 <!ENTITY Ctr_hiderecentbm	"Menu podręczne zakładek: ukryj ostatnio dodane zakładki">
 <!ENTITY Ctr_hideeditbm		"Gwiazdka zakładek: ukryj menu podręczne (jeżeli zakładka nie jest dodana do strony)">
-<!ENTITY Ctr_oldplacesbut	"Elementy i foldery zakładek na pasku: stary wygląd">
+<!ENTITY Ctr_oldplacesbut	"Elementy i foldery zakładek na pasku narzędzi: stary wygląd">
 <!ENTITY Ctr_bmbutpanelm	"Menu podręczne: wygląd menu panelu">
 <!ENTITY Ctr_bmbunsortbm	"Menu podręczne: podmenu 'Pozostałe zakładki'">
 <!ENTITY Ctr_bmbunsortbm2	"Menu ponad zakładkami">
